@@ -6,7 +6,7 @@
 Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Invertido é incerto, repleto de obstáculos e perigos. Porém, a recompensa é grande: salvar Hawkings e o mundo todo das garras de Vecna. Você está preparado(a)? 
 
 ## ▶️ Resultado Final
-[Clique aqui]() para ver a Landing Page que foi desenvolvida neste projeto
+[Clique aqui](https://kitsunecozy.github.io/mundo-invertido-landing-page/) para ver a Landing Page que foi desenvolvida neste projeto
 
 ## 💻 Tecnologias
 - HTML
